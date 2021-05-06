@@ -8,7 +8,10 @@ You can simply download the code and run the files from any IDE you have or from
 
 
 To run the python files, first cd into the project directory using the command line
+
 $ cd project_directory
+
 $ python3 filename.py
+
 $ python3 -m unittest test_file_name.py
 
